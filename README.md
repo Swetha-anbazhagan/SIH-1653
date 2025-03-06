@@ -33,9 +33,13 @@ Ministry of Defence
 
 ## Technology Stack
  Vue.js
+ 
  Django 
+ 
  PostgreSQL 
+ 
  AI Evaluation	NLP-based model (GPT, BERT)
+ 
  AWS
 
 
